@@ -1,4 +1,4 @@
-# Global AI & Pharma Regulatory Database
+# AI & Pharma Regulatoion Database
 
 This database maps international laws, regulations, and formal guidance documents relevant to the deployment of Artificial Intelligence and Machine Learning across the pharmaceutical lifecycle.
 The tsv and xlsx files have identical content to the table below but are provided for convenience
